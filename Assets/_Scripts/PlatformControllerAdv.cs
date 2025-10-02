@@ -127,6 +127,7 @@ public class PlatformControllerAdv : MonoBehaviour
         if (useAnim)
         {
             anim.SetFloat("Speed", Mathf.Abs(inputX));
+            anim.SetBool("IsGrounded", isGrounded);
         }
 
         CheckDirection();
