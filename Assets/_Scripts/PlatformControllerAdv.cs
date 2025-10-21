@@ -32,7 +32,7 @@ public class PlatformControllerAdv : MonoBehaviour
     [SerializeField] float jumpBufferCounter;
     [SerializeField] ParticleSystem jumpEffect;
     private Animator anim;
-    private bool useAnim = true;
+    [SerializeField] private bool useAnim = true;
     bool jump = false;
 
     [InspectorLabel("Wall Sliding")]
