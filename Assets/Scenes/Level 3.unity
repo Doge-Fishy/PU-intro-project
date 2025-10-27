@@ -681,7 +681,7 @@ GameObject:
   - component: {fileID: 687316159}
   - component: {fileID: 687316158}
   - component: {fileID: 687316157}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Static Sprite (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -843,7 +843,7 @@ GameObject:
   - component: {fileID: 701869840}
   - component: {fileID: 701869839}
   - component: {fileID: 701869838}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Static Sprite (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1167,7 +1167,7 @@ GameObject:
   - component: {fileID: 797822682}
   - component: {fileID: 797822681}
   - component: {fileID: 797822680}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Static Sprite (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1454,7 +1454,7 @@ GameObject:
   - component: {fileID: 969302053}
   - component: {fileID: 969302052}
   - component: {fileID: 969302051}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Static Sprite (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2120,7 +2120,7 @@ GameObject:
   - component: {fileID: 1355418177}
   - component: {fileID: 1355418176}
   - component: {fileID: 1355418175}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Static Sprite (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2282,7 +2282,7 @@ GameObject:
   - component: {fileID: 1405391254}
   - component: {fileID: 1405391253}
   - component: {fileID: 1405391252}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Static Sprite (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3516,7 +3516,7 @@ GameObject:
   - component: {fileID: 1757357040}
   - component: {fileID: 1757357039}
   - component: {fileID: 1757357038}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Static Sprite (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3678,7 +3678,7 @@ GameObject:
   - component: {fileID: 1813071033}
   - component: {fileID: 1813071032}
   - component: {fileID: 1813071031}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Static Sprite (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4159,7 +4159,7 @@ GameObject:
   - component: {fileID: 2108973054}
   - component: {fileID: 2108973053}
   - component: {fileID: 2108973052}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Static Sprite (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
